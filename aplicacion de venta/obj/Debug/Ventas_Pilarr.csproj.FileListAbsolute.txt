@@ -1,0 +1,86 @@
+C:\Users\PILAR\Downloads\SePar-main\bin\Debug\Ventas_Jairo.exe.config
+C:\Users\PILAR\Downloads\SePar-main\bin\Debug\Ventas_Jairo.exe
+C:\Users\PILAR\Downloads\SePar-main\bin\Debug\Ventas_Jairo.pdb
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.AssemblyReference.cache
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.SuggestedBindingRedirects.cache
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarOficinas.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarProducto.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarRepresentante.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaClientes.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaOficina.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaRepresentante.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminar.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarCliente.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarOficina.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarRepresentante.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmMenu.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaProductos.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmDescontinuarProd.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmpedido.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmQueryProductos.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.Properties.Resources.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.GenerateResource.cache
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.CoreCompileInputs.cache
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Jairo.exe
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Jairo.pdb
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmPagos.resources
+C:\Users\PILAR\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizar_Clientes.resources
+C:\Users\Aaron\Downloads\SePar-main\bin\Debug\Ventas_Jairo.exe.config
+C:\Users\Aaron\Downloads\SePar-main\bin\Debug\Ventas_Jairo.exe
+C:\Users\Aaron\Downloads\SePar-main\bin\Debug\Ventas_Jairo.pdb
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.AssemblyReference.cache
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizar_Clientes.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarOficinas.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarProducto.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarRepresentante.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaClientes.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaOficina.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaRepresentante.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminar.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarCliente.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarOficina.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarRepresentante.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmMenu.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaProductos.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmDescontinuarProd.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmPagos.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.frmpedido.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.FrmQueryProductos.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.Properties.Resources.resources
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.GenerateResource.cache
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Pilarr.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Jairo.exe
+C:\Users\Aaron\Downloads\SePar-main\obj\Debug\Ventas_Jairo.pdb
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.csproj.AssemblyReference.cache
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizar_Clientes.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarOficinas.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarProducto.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmActualizarRepresentante.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaClientes.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaOficina.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaRepresentante.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminar.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarCliente.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarOficina.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmEliminarRepresentante.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmMenu.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmAltaProductos.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmDescontinuarProd.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmPagos.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmpedido.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmQueryProductos.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.Properties.Resources.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.csproj.GenerateResource.cache
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.formaltausuarios.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmacceso.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmQueryClientes.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.FrmQueryRepresentante.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.frmQueryoficinas.resources
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\bin\Debug\Ventas_Pilarr.exe.config
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\bin\Debug\Ventas_Pilarr.exe
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\bin\Debug\Ventas_Pilarr.pdb
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.exe
+C:\Users\Aaron\Downloads\carpetas que no se deben de modificar\SePar-main\obj\Debug\Ventas_Pilarr.pdb
